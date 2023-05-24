@@ -1,0 +1,87 @@
+/*Body*/
+body{
+    font-family: Arial, "Courier New", monospace;
+}
+.div-form{
+    display:flex;
+    animation: color-animation 5s linear infinite;
+    background-color:#F6F1F1;
+
+}
+@keyframes color-animation {
+  0% {
+    background-color: #AFD3E2;
+  }
+  50% {
+    background-color: #F6F1F1;
+  }
+  100% {
+    background-color: #19A7CE;
+  }
+ }
+/* Phần header */
+
+h1 {
+    text-align: center;
+    font-size: 2em;
+
+}
+
+/* Phần form */
+form {
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+label {
+    display: block;
+    margin-top: 1em;
+}
+
+input[type="text"],
+ input[type="time"]{
+    padding: 0.5em;
+    border-radius: 0.25em;
+    border: 1px solid #ccc;
+    width: 100%;
+    font-size: 1em;
+    box-sizing: border-box;
+    margin-top: 0.5em;
+}
+
+button[type="submit"] {
+    margin-left:15em;
+    padding: 0.5em;
+    border-radius: 0.25em;
+    border: none;
+    background-color: #2196f3;
+    color: #fff;
+    font-size: 1em;
+    margin-top: 4em;
+    margin-bottom: 2em;
+    cursor: pointer;
+}
+
+button[type="submit"]:hover {
+    background-color: #0c7cd5;
+}
+
+/* Phần thông báo */
+.alert {
+    margin-top: 1em;
+    padding: 0.5em;
+    border-radius: 0.25em;
+    border: 1px solid #ccc;
+    font-size: 1em;
+    text-align: center;
+}
+
+.alert.success {
+    background-color: #d4edda;
+    color: #155724;
+}
+
+.alert.error {
+    background-color: #f8d7da;
+    color: #721c24;
+}

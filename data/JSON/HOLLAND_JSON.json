@@ -1,0 +1,507 @@
+[
+  {
+  "Label": "A",
+  "Question": "1",
+  "Answe1":"",
+  "Answe2": "",
+  "Answe3": "",
+  "Answe4": "",
+  "Score": 0
+ },
+ {
+  "Label": "A",
+  "Question": "Có tính tự lập",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "A",
+  "Question": " Có đầu óc suy nghĩ thực tế ",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "A",
+  "Question": "Dễ thích nghi với môi trường mới",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "A",
+  "Question": " Điều khiển các máy móc, thiết bị ",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "A",
+  "Question": "Làm tốt các công việc thủ công như gấp giấy, \ncắt, dán, đan, móc",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "A",
+  "Question": "Thích tiếp xúc với thiên nhiên, động, thực vật",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "A",
+  "Question": "Thích làm công việc thực hành, tay chân",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "A",
+  "Question": " Thích làm những công việc thực tế",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "A",
+  "Question": "Thích làm việc ngoài trời",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "B",
+  "Question": "Thích tìm hiểu, khám phá vấn đề mới",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "B",
+  "Question": "Có khả năng phân tích vấn đề",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "B",
+  "Question": "Có tư duy logic, suy nghĩ mạch lạc, chặc chẽ",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "B",
+  "Question": "Thích quan sát, nghiên cứu",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "B",
+  "Question": "Có khả năng tổng hợp, khái quát, suy đoán",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "B",
+  "Question": "Thích hoạt động điều tra, phân loại, kiểm tra,đánh giá",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "B",
+  "Question": "Biết tự tổ chức, sắp xếp công việc",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "B",
+  "Question": "Thích thử thách, khó khăn",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "B",
+  "Question": "Có khả năng giải quyết vấn đề",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "C",
+  "Question": "Dễ xúc động",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "C",
+  "Question": "Dễ xúc động",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "C",
+  "Question": "Giàu trí tưởng tượng",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "C",
+  "Question": "Thích tự do, không theo khuôn mẫu",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "C",
+  "Question": "Giỏi thuyết trình, diễn xuất",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "C",
+  "Question": "Thích chụp ảnh, vẽ, trang trí, điêu khắc",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "C",
+  "Question": "Có năng khiếu âm nhạc",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "C",
+  "Question": "Có khả năng viết, trình bày ý tưởng",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "C",
+  "Question": "Thích sự mới mẻ, công việc sáng tạo",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "C",
+  "Question": "Thoải mái biểu lộ những ý thích riêng",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "D",
+  "Question": "Thân thiện, hay giúp đỡ người khác",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "D",
+  "Question": "Thích gặp gỡ, làm việc với nhiều người",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "D",
+  "Question": "Lịch thiệp, tử tế",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "D",
+  "Question": "Thích khuyên bảo, giảng giải cho người khác",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "D",
+  "Question": "Biết lắng nghe, chia sẻ ",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "D",
+  "Question": "Thích các công việc chăm sóc sức khỏe",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "D",
+  "Question": "Thích hoạt động công tác xã hội, phục vụ cộng đồng",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "D",
+  "Question": "Mong muốn được đóng góp để xã hội tốt đẹp\nhơn",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "D",
+  "Question": "Có khả năng hòa giải, giải quyết mâu thuẫn",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "E",
+  "Question": "Thích phiêu lưu ",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "E",
+  "Question": "Có tính quyết đoán",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "E",
+  "Question": "Năng động",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "E",
+  "Question": "Có khả năng diễn đạt, tranh luận, thuyết phục",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "E",
+  "Question": "Thích làm quản lý, chỉ đạo,nhận xét, đánh giá,\nđặt ra mục tiêu, kế hoạch",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "E",
+  "Question": "Thích tạo ảnh hưởng đối với người khác",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "E",
+  "Question": "Thích cạnh tranh để vượt qua người khác",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "E",
+  "Question": "Muốn được mọi người kính trọng, vị nể ",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "E",
+  "Question": "Thích phiêu lưu ",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "F",
+  "Question": "Có đầu óc tổ chức, sắp xếp, ngăn nắp",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "F",
+  "Question": "Cẩn thận, tỉ mỉ",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "F",
+  "Question": "Chu đáo, chính xác, đáng tin cậy",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "F",
+  "Question": "Có khả năng tính toán, so sánh, ghi chép số liệu",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "F",
+  "Question": "Thích công việc lưu trữ, phân loại , cập nhật\nthông tin",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "F",
+  "Question": "Thường dự kiến về chỉ tiêu, ngân sách",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "F",
+  "Question": "Thích làm việc có nhiệm vụ, mục tiêu rõ ràng",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "F",
+  "Question": "Có khả năng lên kế hoạch, điều phối công việc",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ },
+ {
+  "Label": "F",
+  "Question": "Thích làm việc với con số, theo hướng dẫn, quy trình",
+  "Answe1": "Chưa bao giờ đúng",
+  "Answe2": "Đúng trong 1 vài trường hợp",
+  "Answe3": "Đúng trong đa số các trường hợp",
+  "Answe4": "Đúng trong tất cả trường hợp",
+  "Score": 0
+ }
+
+]

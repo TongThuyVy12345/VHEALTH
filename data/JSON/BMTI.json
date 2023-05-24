@@ -1,0 +1,498 @@
+[
+  {
+  "Question": "",
+  "Answer_A": "",
+  "Label_A": 1,
+  "Answer_B": "",
+  "Label_B": 2
+ },
+ {
+  "Question": "Tại một buổi tiệc, bạn sẽ:",
+  "Answer_A": "Giao tiếp với nhiều người, kể cả người lạ",
+  "Label_A": 1,
+  "Answer_B": "Chỉ giao tiếp với với một số ít người mà bạn đã quen\n",
+  "Label_B": 2
+ },
+ {
+  "Question": "Bạn thấy mình là người nghiêng về kiểu nào nhiều hơn?",
+  "Answer_A": " Thực tế",
+  "Label_A": 3,
+  "Answer_B": "Sáng tạo",
+  "Label_B": 4
+ },
+ {
+  "Question": "Bạn nghĩ tình huống nào tồi tể hơn?",
+  "Answer_A": "Đầu óc của bạn cứ “bay bổng trên mây",
+  "Label_A": 5,
+  "Answer_B": "Cuộc sống của bạn thật nhàm chán và không bao giờ thay đổi",
+  "Label_B": 6
+ },
+ {
+  "Question": "Bạn sẽ bị ấn tượng hơn với",
+  "Answer_A": "Các nguyên tắc",
+  "Label_A": 7,
+  "Answer_B": "Những cảm xúc",
+  "Label_B": 8
+ },
+ {
+  "Question": " Khi quyết định việc gì đó, bạn thường hay dựa vào:",
+  "Answer_A": "Sự thuyết phục",
+  "Label_A": 9,
+  "Answer_B": "Sự đồng cảm",
+  "Label_B": 10
+ },
+ {
+  "Question": "Bạn thích làm việc theo kiểu nào nhiều hơn?",
+  "Answer_A": " Theo đúng thời hạn",
+  "Label_A": 11,
+  "Answer_B": " Tùy hứng",
+  "Label_B": 12
+ },
+ {
+  "Question": "Bạn có khuynh hướng đưa ra các lựa chọn",
+  "Answer_A": " Rất cẩn thận",
+  "Label_A": 13,
+  "Answer_B": "Phần nào theo cảm nhận",
+  "Label_B": 14
+ },
+ {
+  "Question": "Tại các bữa tiệc, bạn thường:",
+  "Answer_A": "Ở lại tới cùng và cảm thấy càng lúc càng hào hứng",
+  "Label_A": 1,
+  "Answer_B": "Ra về sớm vì cảm thấy mệt mỏi dần",
+  "Label_B": 2
+ },
+ {
+  "Question": "Kiểu người nào sẽ thu hút bạn hơn?",
+  "Answer_A": "Người thực tế và có lý lẽ",
+  "Label_A": 3,
+  "Answer_B": "Người giàu trí tưởng tượng",
+  "Label_B": 4
+ },
+ {
+  "Question": "Điều nào khiến bạn thấy thích thú hơn?",
+  "Answer_A": "Những điều thực tế",
+  "Label_A": 5,
+  "Answer_B": "Những ý tưởng khả thi",
+  "Label_B": 6
+ },
+ {
+  "Question": "Khi đánh giá hoặc phán xét người khác, bạn thường hay dựa vào điều gì?",
+  "Answer_A": "Luật lệ và nguyên tắc",
+  "Label_A": 7,
+  "Answer_B": " Hoàn cảnh",
+  "Label_B": 8
+ },
+ {
+  "Question": " Khi tiếp cận, tiếp xúc người khác, bạn nghiêng về hướng nào hơn?",
+  "Answer_A": "Tiếp cận theo hướng khách quan",
+  "Label_A": 9,
+  "Answer_B": "Tiếp cận theo hướng sử dụng trải nghiệm cá nhân",
+  "Label_B": 10
+ },
+ {
+  "Question": "Phong cách của bạn nghiêng về hướng nào hơn?",
+  "Answer_A": " Đúng giờ, nghiêm túc",
+  "Label_A": 11,
+  "Answer_B": "Nhàn nhã, thoải mái",
+  "Label_B": 12
+ },
+ {
+  "Question": "Bạn cảm thấy không thoải mái khi có những việc",
+  "Answer_A": "Chưa hoàn thiện",
+  "Label_A": 13,
+  "Answer_B": " Đã quá hoàn thiện",
+  "Label_B": 14
+ },
+ {
+  "Question": " Trong các mối quan hệ xã hội, bạn thường",
+  "Answer_A": "Luôn nắm bắt kịp thời thông tin về các vấn đề của mọi người",
+  "Label_A": 1,
+  "Answer_B": "Thường biết thông tin sau những người khác",
+  "Label_B": 2
+ },
+ {
+  "Question": "Với các công việc thông thường, bạn nghiêng về cách:",
+  "Answer_A": "Làm theo cách thông thường",
+  "Label_A": 3,
+  "Answer_B": "Làm theo cách của riêng mình",
+  "Label_B": 4
+ },
+ {
+  "Question": "Các nhà văn nên:",
+  "Answer_A": "Viết những gì họ nghĩ và chân thật với những gì mình viết",
+  "Label_A": 5,
+  "Answer_B": "Diễn đạt sự việc bằng cách so sánh hay liên tưởng",
+
+  "Label_B": 6
+ },
+ {
+  "Question": "Điều gì lôi cuốn bạn hơn?",
+  "Answer_A": "Tính nhất quán của tư duy, suy nghĩ\n",
+  "Label_A": 7,
+  "Answer_B": "Sự hòa hợp trong các mối quan hệ của con người",
+  "Label_B": 8
+ },
+ {
+  "Question": "Bạn cảm thấy thoải mái hơn khi đưa ra:",
+  "Answer_A": "Những đánh giá, nhận xét một cách logic",
+  "Label_A": 9,
+  "Answer_B": "Những đánh giá, nhận xét một cách có ý nghĩa",
+  "Label_B": 10
+ },
+ {
+  "Question": " Bạn thích những điều:",
+  "Answer_A": " Đã được sắp xếp, quyết định trước",
+  "Label_A": 11,
+  "Answer_B": "Chưa xác định, chưa được quyết định",
+  "Label_B": 12
+ },
+ {
+  "Question": "Bạn tự thấy mình:",
+  "Answer_A": "Nghiêm túc, quyết đoán",
+  "Label_A": 13,
+  "Answer_B": "Dễ gần, thoải mái",
+  "Label_B": 14
+ },
+ {
+  "Question": "Khi nói chuyện điện thoại, bạn:",
+  "Answer_A": "Cứ gọi bình thường",
+  "Label_A": 1,
+  "Answer_B": "Chuẩn bị trước những điều sẽ nói",
+  "Label_B": 2
+ },
+ {
+  "Question": "Những sự kiện trong thực tế",
+  "Answer_A": "Bản thân nó giải thích cho chính nó”",
+  "Label_A": 3,
+  "Answer_B": " Nó là bằng chứng giải thích cho các quy tắc, quy luật",
+  "Label_B": 4
+ },
+ {
+  "Question": "Những người có tầm nhìn xa\/người lo xa.",
+  "Answer_A": "Thường gây khó chịu cho người khác",
+  "Label_A": 5,
+  "Answer_B": "Khá thú vị",
+  "Label_B": 6
+ },
+ {
+  "Question": "Bạn thường là người",
+  "Answer_A": " Cái đầu lạnh",
+  "Label_A": 7,
+  "Answer_B": "Trái tim nóng",
+  "Label_B": 8
+ },
+ {
+  "Question": "Điều nào thì tồi tệ hơn?",
+  "Answer_A": " Không công bằng",
+  "Label_A": 9,
+  "Answer_B": "Tàn nhẫn",
+  "Label_B": 10
+ },
+ {
+  "Question": "Các sự kiện nên xảy ra theo hướng:",
+  "Answer_A": "Được lựa chọn và cân nhắc kỹ lưỡng",
+  "Label_A": 11,
+  "Answer_B": "Ngẫu nhiên và tự nhiên",
+  "Label_B": 12
+ },
+ {
+  "Question": "Bạn cảm thấy thoải mái hơn khi",
+  "Answer_A": " Đã mua một thứ gì đó",
+  "Label_A": 13,
+  "Answer_B": "Đang lựa chọn để mua",
+  "Label_B": 14
+ },
+ {
+  "Question": "Trong công ty, bạn là người:",
+  "Answer_A": " Khởi xướng các câu chuyện",
+  "Label_A": 1,
+  "Answer_B": "Đợi người khác bắt chuyện với mình",
+  "Label_B": 2
+ },
+ {
+  "Question": "Đối với những quy ước, quy tắc thông thường trong xã hội, bạn :",
+  "Answer_A": " Ít khi nghi ngờ những điều này",
+  "Label_A": 3,
+  "Answer_B": "Thường xem xét lại tính đúng đắn của những điều đó",
+  "Label_B": 4
+ },
+ {
+  "Question": "Trẻ em thườn:",
+  "Answer_A": " Chưa cố gắng đủ",
+  "Label_A": 5,
+  "Answer_B": "Chưa vui chơi đủ",
+  "Label_B": 6
+ },
+ {
+  "Question": "Khi đưa ra các quyết định, bạn sẽ thấy thoải mái hơn với",
+  "Answer_A": "Các tiêu chuẩn",
+  "Label_A": 7,
+  "Answer_B": "Cảm xúc, cảm nhận",
+  "Label_B": 8
+ },
+ {
+  "Question": " Bạn nghiêng về tính cách nào hơn ?",
+  "Answer_A": "Cứng rắn",
+  "Label_A": 9,
+  "Answer_B": "Nhẹ nhàng",
+  "Label_B": 10
+ },
+ {
+  "Question": "Theo bạn, khả năng nào đáng khâm phục hơn ?",
+  "Answer_A": "Khả năng tổ chức và làm việc có phương pháp",
+  "Label_A": 11,
+  "Answer_B": " Khả năng thích ứng và xoay xở trước mọi tình huống",
+  "Label_B": 12
+ },
+ {
+  "Question": "Bạn đề cao tố chất nào hơn?",
+  "Answer_A": "Sự chắc chắn",
+  "Label_A": 13,
+  "Answer_B": "Sự cởi mở",
+  "Label_B": 14
+ },
+ {
+  "Question": "Khi phải tương tác với người khác ở các tình huống và vấn đề mới lạ, không thường gặp, bạn thường:",
+  "Answer_A": "Thấy phấn chấn và hào hứng",
+  "Label_A": 1,
+  "Answer_B": "Cảm thấy mệt mỏi",
+  "Label_B": 2
+ },
+ {
+  "Question": "Thường thì bạn là:",
+  "Answer_A": "Người thực tế",
+  "Label_A": 3,
+  "Answer_B": "Người có khả năng tưởng tượng phong phú",
+  "Label_B": 4
+ },
+ {
+  "Question": "Bạn thường có xu hướng:",
+  "Answer_A": "Xem người khác có thể làm được việc gì hữu ích",
+  "Label_A": 5,
+  "Answer_B": " Xem người khác sẽ nghĩ và cảm nhận như thế nào",
+  "Label_B": 6
+ },
+ {
+  "Question": " Bạn cảm thấy thoải mái hơn khi:",
+  "Answer_A": "Thảo luận một vân đề kĩ lưỡng, triệt để",
+  "Label_A": 7,
+  "Answer_B": "Đạt được thỏa thuận, sự nhất trí về vấn đề",
+  "Label_B": 8
+ },
+ {
+  "Question": "Cái đầu hay trái tim chi phối bạn nhiều hơn",
+  "Answer_A": "Cái đầu",
+  "Label_A": 9,
+  "Answer_B": "Trái tim",
+  "Label_B": 10
+ },
+ {
+  "Question": "Bạn cảm thấy thoải mái hơn khi làm các công việc theo dạng",
+  "Answer_A": "Được giao trọn gói, làm xong hết rồi bàn giao",
+  "Label_A": 11,
+  "Answer_B": "Công việc làm hàng ngày, theo lịch",
+  "Label_B": 12
+ },
+ {
+  "Question": "Bạn có xu hướng tìm kiếm những điều:",
+  "Answer_A": "Theo trật tự, thứ tự",
+  "Label_A": 13,
+  "Answer_B": "Ngẫu nhiên",
+  "Label_B": 14
+ },
+ {
+  "Question": "Bạn thích kiểu nào hơn?",
+  "Answer_A": "Nhiều bạn bè ở mức độ xã giao",
+  "Label_A": 1,
+  "Answer_B": "Một vài người bạn thân",
+  "Label_B": 2
+ },
+ {
+  "Question": "Bạn thường dựa vào:",
+  "Answer_A": "Bạn thường dựa vào:",
+  "Label_A": 3,
+  "Answer_B": "Nguyên lý, nguyên tắc",
+  "Label_B": 4
+ },
+ {
+  "Question": "Bạn hứng thú với việc gì hơn?",
+  "Answer_A": "Sản xuất và phân phối",
+  "Label_A": 5,
+  "Answer_B": "Thiết kế và nghiên cứu",
+  "Label_B": 6
+ },
+ {
+  "Question": "Lời khen nào giá trị hơn?",
+  "Answer_A": "“Đó là một người có suy nghĩ rất logic”",
+  "Label_A": 7,
+  "Answer_B": "“Đó là một người rất tình cảm, tinh tế”",
+  "Label_B": 8
+ },
+ {
+  "Question": "Bạn thích mình có tố chất nào hơn?",
+  "Answer_A": "Kiên định, vững vàng",
+  "Label_A": 9,
+  "Answer_B": "Toàn tâm, cống hiến",
+  "Label_B": 10
+ },
+ {
+  "Question": "Bạn thường thích điều nào hơn?",
+  "Answer_A": " Một tuyên bố cuối cùng, không thay đổi",
+  "Label_A": 11,
+  "Answer_B": " Một tuyên bố dự kiến, ban đầu",
+  "Label_B": 12
+ },
+ {
+  "Question": "Bạn thấy thoải mái hơn vào lúc:",
+  "Answer_A": " Trước khi đưa ra quyết định",
+  "Label_A": 13,
+  "Answer_B": "Sau khi đưa ra quyết định",
+  "Label_B": 14
+ },
+ {
+  "Question": "Bạn có thấy mình:",
+  "Answer_A": " Dễ dàng bắt chuyện và kéo dài cuộc trò chuyện với người mới gặp",
+  "Label_A": 1,
+  "Answer_B": " Khó mà trò chuyện nhiều với những người mới quen",
+  "Label_B": 2
+ },
+ {
+  "Question": "Bạn có xu hướng tin tưởng vào:",
+  "Answer_A": "Kinh nghiệm của mình",
+  "Label_A": 3,
+  "Answer_B": "Linh cảm của mình",
+  "Label_B": 4
+ },
+ {
+  "Question": "Bạn cho rằng mình thuộc tuýp người nào hơn?",
+  "Answer_A": "Người thực tế",
+  "Label_A": 5,
+  "Answer_B": "Người khôn khéo",
+  "Label_B": 6
+ },
+ {
+  "Question": "Theo bạn ai là người đáng được khen ngợi hơn?",
+  "Label_A": 7,
+  "Label_B": 8
+ },
+ {
+  "Question": "Bạn có xu hướng hành xử:",
+  "Answer_A": "Bạn có xu hướng hành xử:",
+  "Label_A": 9,
+  "Answer_B": "Thông cảm, đồng cảm",
+  "Label_B": 10
+ },
+ {
+  "Question": "Bạn thích:",
+  "Answer_A": "Đảm bảo rằng mọi việc được chuẩn bị, thu xếp sẵn sàng",
+  "Label_A": 11,
+  "Answer_B": "Để mọi việc diễn ra tự nhiên",
+  "Label_B": 12
+ },
+ {
+  "Question": "Trong các mối quan hệ thì mọi việc:",
+  "Answer_A": ". Có thể thảo luận để giải quyết được",
+  "Label_A": 13,
+  "Answer_B": "Diễn ra ngẫu nhiên và tùy theo điều kiện hoàn cảnh",
+  "Label_B": 14
+ },
+ {
+  "Question": "Khi chuông điện thoại reo, bạn sẽ:",
+  "Answer_A": "Là người đầu tiên nhấc máy",
+  "Label_A": 1,
+  "Answer_B": "Hi vọng có người khác sẽ nhấc máy",
+  "Label_B": 2
+ },
+ {
+  "Question": "Bạn đánh giá cao điều gì trong mình hơn:",
+  "Answer_A": "Nhận thức tốt về các yếu tố thực tế",
+  "Label_A": 3,
+  "Answer_B": "Có trí tưởng tượng phong phú, rực rỡ",
+  "Label_B": 4
+ },
+ {
+  "Question": "Bạn sẽ chú tâm hơn đến:",
+  "Answer_A": "Các nguyên tắc, nguyên lý cơ bản",
+  "Label_A": 5,
+  "Answer_B": "Các nguyên tắc, nguyên lý cơ bản",
+  "Label_B": 6
+ },
+ {
+  "Question": "Điều gì có vẻ sẽ là một lỗi lớn hơn?",
+  "Answer_A": "Quá nồng nhiệt, thiết tha",
+  "Label_A": 7,
+  "Answer_B": "Quá khách quan, thờ ơ",
+  "Label_B": 8
+ },
+ {
+  "Question": "Về cơ bản, bạn sẽ đánh giá mình là người thế nào?",
+  "Answer_A": "Thiết thực, ít bị chi phối bởi tình cảm",
+  "Label_A": 9,
+  "Answer_B": "Từ tâm, đa cảm",
+  "Label_B": 10
+ },
+ {
+  "Question": "Tình huống nào sẽ lôi cuốn bạn hơn?",
+  "Answer_A": "Tình huống rõ ràng, có kế hoạch",
+  "Label_A": 11,
+  "Answer_B": "Tình huống không xác định, không có kế hoạch",
+  "Label_B": 12
+ },
+ {
+  "Question": "Bạn là người có xu hướng nào hơn?",
+  "Answer_A": "Theo thói quen",
+  "Label_A": 13,
+  "Answer_B": "Hay thay đổi",
+  "Label_B": 14
+ },
+ {
+  "Question": "Bạn có xu hướng nào hơn?",
+  "Answer_A": "Là người dễ tiếp cận",
+  "Label_A": 1,
+  "Answer_B": "Ở mức độ nào đó là người kín đáo",
+  "Label_B": 2
+ },
+ {
+  "Question": "Khi viết, bạn thích:",
+  "Answer_A": "Viết theo hướng văn chương hơn",
+  "Label_A": 3,
+  "Answer_B": "Viết theo số liệu, dữ liệu hơn",
+  "Label_B": 4
+ },
+ {
+  "Question": "Đối với bạn, điều gì khó thực hiện hơn?",
+  "Answer_A": "Hiểu và chia sẻ với người khác",
+  "Label_A": 5,
+  "Answer_B": "Điều khiển người khác",
+  "Label_B": 6
+ },
+ {
+  "Question": "Bạn mong ước mình sẽ có thêm nhiều điều gì?",
+  "Answer_A": "Lí trí và khả năng nhận xét rõ ràng",
+  "Label_A": 7,
+  "Answer_B": "Tình thương, lòng trắc ẩn sâu sắc",
+  "Label_B": 8
+ },
+ {
+  "Question": "Điều gì sẽ là lỗi lớn hơn?",
+  "Answer_A": "Hành động bừa bãi, không cân nhắc",
+  "Label_A": 9,
+  "Answer_B": "Hành động chỉ trích, phê phán",
+  "Label_B": 10
+ },
+ {
+  "Question": "Bạn sẽ thích sự kiện nào hơn?",
+  "Answer_A": "Sự kiện có lên kế hoạch trước",
+  "Label_A": 11,
+  "Answer_B": "Sự kiện có lên kế hoạch trước",
+  "Label_B": 12
+ },
+ {
+  "Question": "Bạn thường có hành động:",
+  "Answer_A": "Cân nhắc thận trọng",
+  "Label_A": 13,
+  "Answer_B": "Tự nhiên, tự phát",
+  "Label_B": 14
+ }
+]
