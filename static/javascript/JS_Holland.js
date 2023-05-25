@@ -26,7 +26,7 @@
     }
 
     prompt(chatbox) {
-        this.messages.push({ name: "Bot", message: "Get Start to Holland Quiz." });
+        this.messages.push({ name: "Bot", mess: "Get Start to Holland Quiz." });
         this.updateChatText(chatbox)
     }
 
@@ -45,7 +45,7 @@
 
     if (item.name === 'Bot') {
       messageItem.classList.add('messages__item--visitor');
-      messageItem.textContent = item.message;
+      messageItem.textContent = item.mess;
     } else
     {
     const buttonContainer = document.createElement('div');
@@ -56,22 +56,22 @@
         button.id = 'btn' + i;
         const span = document.createElement('span');
         span.id = 'choice' + i;
-        span.textContent = item['choiceValue' + (i + 1)];
+        span.textContent = item['c' + (i + 1)];
         button.appendChild(span);
         buttonContainer.appendChild(button);
         button.addEventListener('click', () => {
           const fieldValue = textField.value;
 
-          if(span.textContent==item['choiceValue1'])
+          if(span.textContent==item['c1'])
           {    textField.value =0;
           }
-          if(span.textContent==item['choiceValue2'])
+          if(span.textContent==item['c2'])
           {    textField.value =1;
           }
-          if(span.textContent==item['choiceValue3'])
+          if(span.textContent==item['c3'])
           {    textField.value =2;
           }
-          if(span.textContent==item['choiceValue4'])
+          if(span.textContent==item['c4'])
           {    textField.value =3;
           }
           this.onSendButton(chatbox, textField.value);
@@ -84,7 +84,7 @@
 
       const operatorMessageItem = document.createElement('div');
       operatorMessageItem.classList.add('messages__item', 'messages__item--operator');
-      operatorMessageItem.textContent = item.message;
+      operatorMessageItem.textContent = item.mess;
       chatmessage.appendChild(buttonContainer);
       chatmessage.appendChild(operatorMessageItem);
     }
@@ -110,12 +110,12 @@ onSendButton(chatbox,fieldValue) {
         headers: {
             'Content-Type': 'application/json'
         },
-        body: JSON.stringify({ message: text1 })
+        body: JSON.stringify({ mess: text1 })
 })
       .then(response => response.json())
       .then(r => {
-        let msg2 = { name: "Bot", message:r.message};
-        let msg1 = { name: "User", message: text1,'choiceValue1':r.choice,'choiceValue2':r.choice2,'choiceValue3':r.choice3,'choiceValue4':r.choice4,}
+        let msg2 = { name: "Bot", mess:r.testquestion};
+        let msg1 = { name: "User", mess: text1,'c1':r.c1,'c2':r.c2,'c3':r.c3,'c4':r.c4}
         this.messages.push(msg1);
         this.messages.push(msg2);
         this.updateChatText(chatbox)
