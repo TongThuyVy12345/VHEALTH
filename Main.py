@@ -351,18 +351,20 @@ def get_bot_response():
     return render_template(
         'Chat.html', response=response
     )
+#About
+@app.route("/about")
+def about():
+    return render_template('About.html')
 
 
-#
-#
-# admin = Admin(app, name="Admin Vhealth")
-# admin.add_view(UserView(db['User'], 'User'))
-# admin.add_view(QuestionView(db['Question'], 'Question'))
-# admin.add_view(AnswerView(db['Answer'], 'Answer'))
-# admin.add_view(CategoryView(db['Category'], 'Category'))
-# admin.add_view(MBTIView(db['MBTI'], 'MBTI'))
-# admin.add_view(HollandView(db['Holland'], 'Holland'))
-# admin.add_view(QuestionAnswerView(db['Question_Answer'], 'Question Answer'))
-# admin.add_view(ExecriseView(db['Execrise'], 'Execrise'))
 if __name__ == '__main__':
+      admin = Admin(app, name="Admin Vhealth")
+    admin.add_view(UserView(db['User'], 'User'))
+    admin.add_view(QuestionView(db['Question'], 'Question'))
+    admin.add_view(AnswerView(db['Answer'], 'Answer'))
+    admin.add_view(CategoryView(db['Category'], 'Category'))
+    admin.add_view(MBTIView(db['MBTI'], 'MBTI'))
+    admin.add_view(HollandView(db['Holland'], 'Holland'))
+    admin.add_view(QuestionAnswerView(db['Question_Answer'], 'Question Answer'))
+    admin.add_view(ExecriseView(db['Execrise'], 'Execrise'))
     app.run(debug=True)
