@@ -1,10 +1,7 @@
 from VHealth import app
 from flask import Flask, render_template, request, jsonify
 from VHealth.Text_Predict import Text_classification_predict
-from VHealth.Text_Predict.Text_classification_predict import TextClassificationPredict
-from VHealth.Text_Predict.Text_classification_predict import TextClassificationPredict
 from VHealth.model.LDA import make_texts_corpus
-from VHealth.model.SVM import SVM_Model
 from VHealth.model.distances import get_most_similar_documents
 from VHealth.common import File
 from gensim.models.ldamodel import LdaModel
@@ -73,12 +70,12 @@ def show_post(content):
         response = "Title:" + row["Original_Title"] + "- Link:" + row["Link"]
     return response
 
-
-def get_chat(message):
-    tcp = TextClassificationPredict(message, File.get_dbtrain(), File.get_dbtrain_extend(), File.get_dbanswers())
-    result = tcp.Text_Predict()
-    response = {"message": result}
-    # response="TEXT"
-    return response
+# 
+# def get_chat(message):
+#     tcp = TextClassificationPredict(message, File.get_dbtrain(), File.get_dbtrain_extend(), File.get_dbanswers())
+#     result = tcp.Text_Predict()
+#     response = {"message": result}
+#     # response="TEXT"
+#     return response
 # class NumerologyForm(FlaskForm):
 
