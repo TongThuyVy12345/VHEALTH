@@ -1,26 +1,31 @@
-
-from sklearn.pipeline import Pipeline
-from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
-from VHealth.Transformer.Feature_transformer import FeatureTransformer
-class SVM_Model(object):
-    def __init__(self):
-        self.clf = self._init_pipeline()
+from VHealth.common import File
+import codecs
+import os
+import json
+import pandas as pd
+import json
+import pickle
 
-    @staticmethod
-    def _init_pipeline():
-        pipe_line = Pipeline([
-            ("transformer", FeatureTransformer()),
-            ("vect", CountVectorizer()),
-            ("tfidf", TfidfTransformer()),
-            ("clf", SVC(kernel='linear', C=1, gamma=10.0, probability=True))
-        ])
+def get_parentDir():
+    fileDir = os.path.dirname(os.path.abspath(__file__))
+    parentDir = os.path.dirname(fileDir)
+    return parentDir
 
-        return pipe_line
-# X = ["This is a sample document.", "Another document to test.", "Yet another document."]
-# y = [0, 1, 0]
-# import pandas as pd
-# X_series = pd.Series(X)
-#
-# svm_model = SVM_Model()
-# svm_model.clf.fit(X_series, y)
+csv_path = os.path.join(get_parentDir(), 'data', 'CSV', 'FINAL_EN.csv')
+df = pd.read_csv(csv_path, encoding='utf8')
+
+# Preprocess the text data using TF-IDF vectorization
+vectorizer = TfidfVectorizer()
+X = vectorizer.fit_transform(df['Question_tokens'])
+
+X_train, X_test, y_train, y_test = train_test_split(X, df['Label'], test_size=0.2, random_state=42)
+svm_model = SVC(kernel='linear', C=1, gamma=10.0, probability=True)
+svm_model.fit(X_train, y_train)
+
+# Save the trained SVM model
+model_file = 'C:\\Users\ADMIN\PycharmProjects\ModelQA_NCKH\VHealth\svm_model.pkl'
+with open(model_file, 'wb') as file:
+    pickle.dump(svm_model, file)
