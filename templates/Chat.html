@@ -1,77 +1,41 @@
+
 <!DOCTYPE html>
 <html lang="en">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/Style_chat.css') }}">
+
 <head>
     <meta charset="UTF-8">
-    <title>VHEALTH</title>
-    <link href="{{url_for('static', filename='css/Style_chat.css')}}" rel="stylesheet">
-    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
-
-    <script src="{{url_for('static', filename = 'javascript/JS_chat.js')}}"></script>
+    <title>Chatbot VHEALTH </title>
 </head>
 <body>
-<section class="msger">
-    <header class="msger-header">
-        <div class="msger-header-title">
-            <i class="fas fa-comment-alt"></i> VHEALTH
-        </div>
-        <div class="msger-header-options">
-            <span><i class="fas fa-cog"></i></span>
-        </div>
-    </header>
+<div class="container">
 
-    <main class="msger-chat">
-        <div class="msg left-msg">
-            <div
-                    class="msg-img left"
-            ></div>
-
-            <div class="msg-bubble">
-                <div class="msg-info">
-                    <div class="msg-info-name">BOT</div>
-                    <div class="msg-info-time"></div>
+    <div class="chatbox">
+        <div class="chatbox__support chatbox--active">
+            <div class="chatbox__header">
+                <div class="chatbox__image--header">
                 </div>
 
-                <div class="msg-text">
-                    Hi, welcome to VHEALTH! Go ahead and send me a message. 😄
-                </div>
             </div>
-        </div>
-
-        {% if response%}
-        <div class="msg right-msg">
-            <div class="msg-img right "></div>
-            <div class="msg-bubble">
-                <div class="msg-info">
-                    <div class="msg-info-name">You</div>
-                </div>
-                <div class="msg-text">{{ request.form.get('question_test') }}</div>
-                <!-- display user's question here -->
+            <div class="chatbox__messages">
+                <div></div>
             </div>
-        </div>
+            <div class="chatbox__footer">
+                <input type="text" placeholder="Write a message...">
+                <button class="chatbox__send--footer send__button">Send</button>
 
-        {% endif%}
-        {% if response %}
-        <div class="msg left-msg">
-            <div
-                    class="msg-img left"
-            ></div>
-            <div class="msg-bubble">
-                <div class="msg-info">
-                    <div class="msg-info-name">BOT</div>
-                    <div class="msg-info-time"></div>
-                </div>
-                <div class="msg-text">{{ response}}</div>
             </div>
-        </div>
-        {% endif %}
 
-    </main>
-    <form action="/get_bot_response" method="POST" class="msger-inputarea">
-        <!--		<label for="question_test">Enter your question:</label><br>-->
-        <input type="text" id="question_test" name="question_test" class="msger-input"><br>
-        <button type="submit" class="msger-send-btn" id="btn">Send</button>
-    </form>
-</section>
+        </div>
+
+    </div>
+
+</div>
+
+    <script>
+        $SCRIPT_ROOT = {{ request.script_root|tojson }};
+    </script>
+    <script type="text/javascript" src="{{ url_for('static', filename='javascript/JS_chat.js') }}"></script>
+
 </body>
 </html>
