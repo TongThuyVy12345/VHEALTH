@@ -341,16 +341,18 @@ def login():
 
 
 # Numberology
-@app.route("/get_bot_response", methods=["GET", "POST"])
+@app.route("/get_bot_response", methods=["POST","GET"])
 def get_bot_response():
-    message = request.form.get('question_test')
-    if datetime.strptime(message, '%d-%m-%Y'):
-        response = numerology.numerology(message)
-    if "exercise" in message:
-        response = control.show_post(message)
-    return render_template(
-        'Chat.html', response=response
-    )
+    # Get the message from the request\
+    data = request.json
+    query = data.get('titl')
+    rps=Text_classification_predict.Text_Predict(query)
+    # if datetime.strptime(query, '%d-%m-%Y')  :
+    # rps = numerology.numerology(query)
+    #     rps = numerology.numerology(query)
+    # if "exercise" in query:
+    #     rps = control.show_post(query)
+    return jsonify({'success': True,'rps':rps})
 #About
 @app.route("/about")
 def about():
